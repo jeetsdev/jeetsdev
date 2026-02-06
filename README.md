@@ -1,52 +1,77 @@
-<h1 align="left">Hi there 👋 , I'm Ranjeet</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranjeet+Singh;Frontend+Engineer+%7C+SDE+2+%40+Mercari;Building+scalable+web+%26+mobile+apps" alt="Typing SVG" />
+  </a>
+</h1>
 
-<a href="https://twitter.com/jeetsdev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Ranjeet%20Singh-red?style=flat-square&logo=twitter"></a>
-<a href="mailto:ranjeet.jeetsdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Ranjeet%20Singh-red?style=flat-square&logo=gmail"></a>
-<a href="https://jeetsdev.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PortFoilo-Ranjeet%20Singh-red?style=flat-square&logo=Google%20Chrome"></a>
+<p align="center">
+  <a href="https://linkedin.com/in/jeetsdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/jeetsdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:ranjeet.jeetsdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://jeetsdev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+</p>
 
-## Software Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeetsdev&label=Profile%20Views&color=6366F1&style=flat" alt="Profile Views">
+</p>
 
-- 😊 Exploring new technologies and being a avid learner.
-- 🌱 Currently building web apps using React and mobile app using Flutter.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about web development and mobile development.
-- Learning DSA and problem solving.
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## About Me
 
-<div align="left" style="margin:20px 0">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/75165587/132661148-e0ab1572-56bf-4f24-b77e-df45b313c9c4.png" alt="flutter" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40"/>
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://pub.dev/packages/flutter_bloc/versions/8.1.3/gen-res/gen/190x190/logo.webp" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-</div>
+Frontend Engineer with **3+ years** of experience building scalable web and mobile applications. Currently working as **SDE 2 at Mercari Inc**, where I build user-facing products that scale.
 
-![Ranjeet Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeetsdev&theme=outrun&show_icons=true)
+- Working on Account Hub & referral systems at Mercari
+- Previously led frontend at **Cars24** (revamped a $300M+ revenue product) and **Gida Technologies** (20M+ app downloads)
+- Passionate about **clean code**, **performance optimization**, and **developer experience**
+- I write about JavaScript internals and web performance
 
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsdev&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+---
 
-<!-- ![Most used language](https://github-readme-streak-stats.herokuapp.com/?user=jeetsdev&theme=dracula&hide_border=false) -->
+## Work Highlights
+
+| Company | Role | Impact |
+|---------|------|--------|
+| **Mercari Inc** | SDE 2 | Built Account Hub, drove 5,000+ sign-ups in one week via referral system |
+| **Cars24** | Software Developer | Improved web performance by ~20%, led $300M+ product revamp |
+| **Gida Technologies** | Software Developer | Led team of 6, built Flutter app with 20M+ downloads |
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,flutter,dart,redux,tailwind&theme=dark" alt="Row 1" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=materialui,sass,storybook,webpack,git,github,firebase,sentry&theme=dark" alt="Row 2" />
+</p>
+
+---
+
+## Featured Project
+
+### [Sudo-Mart](https://github.com/jeetsdev/sudo-mart) - E-Commerce for Developers
+
+> An e-commerce platform built by developers, for developers and techies.
+
+- High-performance, responsive platform deployed on Netlify
+- Built with custom component library **[Sudo-UI](https://github.com/jeetsdev/sudo-ui)** for consistent design
+- Integrated **Razorpay** for secure checkout
+
+**Tech:** `React` `Context API` `React Router v6` `Mirage JS`
+
+---
+
+## Blog Posts
+
+- [Event Bubbling and Capturing in JavaScript](https://dev.to/jeetsdev/event-bubbling-and-capturing-in-javascript-3ifd) - Understanding event propagation phases in the DOM
+- [Event Loop and Call Stack](https://jeetsdev.netlify.app/) - Deep dive into JavaScript execution model, task queue, and JS engine internals
+- [Async vs Defer in JavaScript](https://jeetsdev.netlify.app/) - Understanding script loading and browser parsing optimization
+
+---
+
+<p align="center">
+  <i>Let's connect and build something great together!</i>
+</p>
