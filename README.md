@@ -65,7 +65,7 @@ Frontend Engineer with **3+ years** of experience building scalable web and mobi
 ## Blog Posts
 
 - [Event Bubbling and Capturing in JavaScript](https://dev.to/jeetsdev/event-bubbling-and-capturing-in-javascript-3ifd) - Understanding event propagation phases in the DOM
-- [Event Loop and Call Stack](https://jeetsdev.netlify.app/) - Deep dive into JavaScript execution model, task queue, and JS engine internals
+- [Event Loop and Call Stack](https://dev.to/jeetsdev/event-loop-and-call-stack-in-javascript-32hk) - Deep dive into JavaScript execution model, task queue, and JS engine internals
 - [Async vs Defer in JavaScript](https://jeetsdev.netlify.app/) - Understanding script loading and browser parsing optimization
 
 ---
